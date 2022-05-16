@@ -15,4 +15,4 @@ Miami Landing Page is a training project. This page contains information about M
   5. Run npm start.
 
   # DEMO LINK
-  https://github.com/Anna-Morozevych/miami-landing
+  https://anna-morozevych.github.io/miami-landing/
