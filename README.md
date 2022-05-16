@@ -1,5 +1,6 @@
 # Project description
-Miami Landing Page is a training project. This page contains information about Miami property and the best places in the city. You can also find customer reviews, contacts and a form on the page to send a request for additional consultation
+Miami Landing Page is a training project. This page contains information about Miami property and the best places in the city. The page contains a menu, a block about us, a photo gallery with links to Google maps, a block with reviews and a form for feedback and consultations.
+This page is also adapted to any screen size. So it will be convenient to watch both on big screens and on mobile devices.
 
 # The technologies used in the project
   - HTML/CSS
